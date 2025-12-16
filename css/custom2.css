@@ -1,0 +1,72 @@
+/* THIS IS THE CUSTOM CSS FILE FOR THE SCRATCH PAGE */
+
+.homebutton{
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-decoration: underline;
+    padding: 2px;
+    border: 2px solid #9E2EE9;
+    border-radius: 10px;
+}
+
+body{
+    text-align: center;
+    margin: 0 auto;
+    background-color: black;
+    color: lightgray;
+}
+
+.tracklist{
+    text-align: left;
+    margin: 0 auto;
+    max-width: 450px;
+}
+
+.visuals{
+    display: block;
+    margin: 0 auto;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    border: #9E2EE9 2px solid;
+    border-radius: 10px;
+}
+
+a{
+    color: lightskyblue;
+}
+
+h1{
+    border: #9E2EE9 2px solid;
+    border-radius: 10px;
+    max-width: 100px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: -20px;
+    font-family: "Staatliches", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2, h3, h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.wide{
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+.tab{
+    margin: 0 auto;
+    max-width: 1200px;
+}
